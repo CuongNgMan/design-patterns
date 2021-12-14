@@ -1,0 +1,16 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "EPAM design pattern assessment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "shipmentId": 7,
+    "toAddress": "2452 Myah Island",
+    "fromAddress": "7335 Savanah Trail",
+    "toZipCode": "54227",
+    "fromZipCode": "00824",
+    "weight": 96,
+    "marks": ["Fragile", "Do Not Leave", "Return Receipt Requested"]
+  },
+  {
+    "shipmentId": 1,
+    "toAddress": "79504 Langworth Station",
+    "fromAddress": "516 Cummerata Lock",
+    "toZipCode": "21023",
+    "fromZipCode": "00823",
+    "weight": 88,
+    "marks": ["Fragile"]
+  },
+  {
+    "shipmentId": 11,
+    "toAddress": "818 Cornelius Knolls",
+    "fromAddress": "7348 Runolfsdottir Meadow",
+    "toZipCode": "17751",
+    "fromZipCode": "00823",
+    "weight": 53,
+    "marks": ["Do Not Leave"]
+  },
+  {
+    "shipmentId": 30,
+    "toAddress": "0419 Vicente Cliff",
+    "fromAddress": "0315 McGlynn Locks",
+    "toZipCode": "95053",
+    "fromZipCode": "00840",
+    "weight": 1,
+    "marks": ["Return Receipt Requested"]
+  },
+  {
+    "shipmentId": 32,
+    "toAddress": "30906 Raynor Plains",
+    "fromAddress": "207 Eryn Rapids",
+    "toZipCode": "71040",
+    "fromZipCode": "00803",
+    "weight": 6,
+    "marks": ["Return Receipt Requested", "Fragile"]
+  },
+  {
+    "shipmentId": 55,
+    "toAddress": "250 Rose Views",
+    "fromAddress": "82045 Raynor Skyway",
+    "toZipCode": "76953",
+    "fromZipCode": "00823",
+    "weight": 41,
+    "marks": ["Do Not Leave", "Return Receipt Requested"]
+  },
+  {
+    "shipmentId": 29,
+    "toAddress": "0467 Stacey Junctions",
+    "fromAddress": "50178 Marguerite Common",
+    "toZipCode": "77064",
+    "fromZipCode": "00805",
+    "weight": 71,
+    "marks": ["Fragile"]
+  },
+  {
+    "shipmentId": 25,
+    "toAddress": "110 Hilario Springs",
+    "fromAddress": "15703 Morris Expressway",
+    "toZipCode": "22096",
+    "fromZipCode": "00831",
+    "weight": 69,
+    "marks": ["Do Not Leave"]
+  },
+  {
+    "shipmentId": 67,
+    "toAddress": "2604 Schulist Viaduct",
+    "fromAddress": "0028 Orn Curve",
+    "toZipCode": "87122",
+    "fromZipCode": "00801",
+    "weight": 11,
+    "marks": ["Return Receipt Requested", "Fragile"]
+  },
+  {
+    "shipmentId": 99,
+    "toAddress": "023 Hector Cliffs",
+    "fromAddress": "8455 Vandervort Wells",
+    "toZipCode": "50616",
+    "fromZipCode": "00821",
+    "weight": 47,
+    "marks": ["Do Not Leave", "Fragile"]
+  },
+  {
+    "shipmentId": 10,
+    "toAddress": "145 Lindsay Street",
+    "fromAddress": "194 Demetrius Brook",
+    "toZipCode": "58271",
+    "fromZipCode": "00841",
+    "weight": 94,
+    "marks": ["Do Not Leave"]
+  },
+  {
+    "shipmentId": 53,
+    "toAddress": "0029 Davonte Trail",
+    "fromAddress": "84064 Leilani Village",
+    "toZipCode": "64121",
+    "fromZipCode": "00850",
+    "weight": 22,
+    "marks": ["Fragile"]
+  },
+  {
+    "shipmentId": 60,
+    "toAddress": "48908 Bashirian Hills",
+    "fromAddress": "072 Schimmel Union",
+    "toZipCode": "59037",
+    "fromZipCode": "00801",
+    "weight": 80,
+    "marks": ["Return Receipt Requested", "Do Not Leave"]
+  },
+  {
+    "shipmentId": 64,
+    "toAddress": "211 Vincenza Loaf",
+    "fromAddress": "8676 Bogisich Burg",
+    "toZipCode": "15661",
+    "fromZipCode": "00821",
+    "weight": 50,
+    "marks": ["Fragile"]
+  },
+  {
+    "shipmentId": 37,
+    "toAddress": "7444 Karson Inlet",
+    "fromAddress": "937 Joel Brooks",
+    "toZipCode": "75124",
+    "fromZipCode": "00805",
+    "weight": 59,
+    "marks": ["Do Not Leave"]
+  },
+  {
+    "shipmentId": 26,
+    "toAddress": "6702 King Place",
+    "fromAddress": "2148 Juvenal Port",
+    "toZipCode": "90717",
+    "fromZipCode": "00850",
+    "weight": 79,
+    "marks": ["Do Not Leave", "Return Receipt Requested"]
+  },
+  {
+    "shipmentId": 26,
+    "toAddress": "760 Laury Port",
+    "fromAddress": "158 Witting Oval",
+    "toZipCode": "77071",
+    "fromZipCode": "00840",
+    "weight": 81,
+    "marks": ["Return Receipt Requested", "Fragile"]
+  },
+  {
+    "shipmentId": 42,
+    "toAddress": "1112 Dare Valleys",
+    "fromAddress": "44456 Mayer Rapid",
+    "toZipCode": "52354",
+    "fromZipCode": "00804",
+    "weight": 26,
+    "marks": []
+  },
+  {
+    "shipmentId": 13,
+    "toAddress": "0410 Fausto Tunnel",
+    "fromAddress": "8225 Gislason Trail",
+    "toZipCode": "07901",
+    "fromZipCode": "00851",
+    "weight": 92,
+    "marks": []
+  },
+  {
+    "shipmentId": 27,
+    "toAddress": "58163 Mayert Spurs",
+    "fromAddress": "15838 Wiza Motorway",
+    "toZipCode": "36550",
+    "fromZipCode": "00803",
+    "weight": 60,
+    "marks": []
+  }
+]
